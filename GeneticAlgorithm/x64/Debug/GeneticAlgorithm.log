@@ -1,0 +1,4 @@
+﻿  Tour.cpp
+c:\users\noah1\source\repos\geneticalgorithm\geneticalgorithm\city.hpp(11): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\noah1\source\repos\geneticalgorithm\geneticalgorithm\city.hpp(14): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  GeneticAlgorithm.vcxproj -> C:\Users\noah1\source\repos\GeneticAlgorithm\x64\Debug\GeneticAlgorithm.exe
